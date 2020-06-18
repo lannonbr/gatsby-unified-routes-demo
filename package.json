@@ -1,0 +1,13 @@
+{
+  "name": "gatsby-unified-routes-demo",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.20.24-unifiedroutes.53",
+    "gatsby-source-filesystem": "^2.3.11",
+    "gatsby-transformer-yaml": "^2.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
